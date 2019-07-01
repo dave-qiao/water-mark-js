@@ -1,5 +1,5 @@
 {
-  "name": "water-mark-js",
+  "name": "watermark-web",
   "version": "1.0.0",
   "description": "Add a watermark",
   "main": "dist/index.js",
