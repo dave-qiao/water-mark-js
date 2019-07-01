@@ -1,2 +1,40 @@
+# nodejs ignore
+node_modules/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
 *.cache
-*node_modules
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# package ignore (optional)
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.g
+
+
+# nodejs ignore
+node_modules/
+
+# RNX JSBUNDLE ignore
+bundle/
+
+# eslint-cache
+.eslintcache
+.vscode/
+
+#lock ignore
+.yarn.lock
