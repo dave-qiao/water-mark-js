@@ -1,0 +1,32 @@
+{
+  "name": "watermark-page-js",
+  "version": "1.0.0",
+  "description": "Add a watermark",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-qiao/water-mark-js.git"
+  },
+  "keywords": [
+    "water",
+    "mark",
+    "web",
+    "js",
+    "waterMark"
+  ],
+  "author": "dave.joe <dave.joe.china@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave-qiao/water-mark-js/issues"
+  },
+  "homepage": "https://github.com/dave-qiao/water-mark-js#readme",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "watermark-page": "^1.0.0"
+  }
+}
