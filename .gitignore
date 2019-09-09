@@ -28,6 +28,7 @@ Thumbs.db
 
 # nodejs ignore
 node_modules/
+test/
 
 # RNX JSBUNDLE ignore
 bundle/
