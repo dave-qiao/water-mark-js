@@ -38,4 +38,4 @@ bundle/
 .vscode/
 
 #lock ignore
-.yarn.lock
+*.lock
