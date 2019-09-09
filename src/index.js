@@ -147,4 +147,4 @@ class WaterMark {
   }
 }
 
-export default WaterMark;
+module.exports = WaterMark;

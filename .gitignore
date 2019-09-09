@@ -39,3 +39,4 @@ bundle/
 
 #lock ignore
 *.lock
+dist/test.*
